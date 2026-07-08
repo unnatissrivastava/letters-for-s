@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Letters for S</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=EB+Garamond:ital@0;1&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div id="floaters"></div>
+
+<section id="landing">
+  <svg class="hero-svg" viewBox="0 0 200 130" fill="none">
+    <rect class="env-body" x="4" y="4" width="192" height="122" rx="2"/>
+    <path class="env-flap" d="M4 4 L100 68 L196 4"/>
+    <line class="ribbon-line rl1" x1="0" y1="65" x2="200" y2="65"/>
+    <circle class="ribbon-dot" cx="100" cy="65" r="4"/>
+  </svg>
+  <h1 class="wordmark">Letters for S</h1>
+  <p class="tagline">Ninety letters. One heart.</p>
+  <button id="enterBtn">Open</button>
+</section>
+
+<section id="gallery" class="hidden">
+  <header class="gallery-header">
+    <h2>Letters for S</h2>
+    <input id="searchBox" type="text" placeholder="Search">
+  </header>
+  <div id="grid" class="masonry"></div>
+  <div class="finale-trigger">
+    <button id="finaleBtn">One more thing, before you go →</button>
+  </div>
+</section>
+
+<section id="finale" class="hidden">
+  <button id="closeFinale">&times;</button>
+  <div class="finale-overlay">
+    <p class="finale-eyebrow">If you're still reading this far</p>
+    <h2 class="finale-heading">This is the life I want with you.</h2>
+    <p class="finale-text">
+      Not just the letters. Not just the ninety little pieces of my heart I've handed you one at a time.
+      I want the ordinary version of forever — a door we both have keys to, a kitchen that smells like
+      whatever one of us is cooking wrong, mornings that don't need an occasion. I want to build
+      something slow and real with you, the kind of life that doesn't need grand gestures because
+      every day already feels like one, simply because you're in it.
+    </p>
+    <p class="finale-vow">Kal bhi mera tum hi ho, mera aaj ho.</p>
+    <p class="finale-text-small">love you so muchhh :)</p>
+    <p class="finale-sign">With love, unnati❤</p>
+  </div>
+</section>
+
+<div id="modal" class="hidden">
+  <div class="envelope-wrap" id="envelopeWrap">
+    <button id="closeModal">&times;</button>
+    <div class="parcel-visual" id="parcelVisual">
+      <div class="ribbon-h" id="ribbonH"></div>
+      <div class="ribbon-v" id="ribbonV"></div>
+      <div class="ribbon-dot" id="ribbonDot"></div>
+    </div>
+    <div class="letter-paper" id="letterPaper"></div>
+  </div>
+</div>
+
+<!-- Flask yahan Python ka data seedha JS array mein daal deta hai -->
+<script>
+  const LETTERS = {{ letters | tojson }};
+</script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
