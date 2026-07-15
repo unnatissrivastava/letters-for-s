@@ -183,7 +183,7 @@ I'll always choose honesty over silence. Understanding over ego. Us over winning
 
 I'll celebrate your victories as if they were my own. I'll remind you how loved you are when you forget. I'll keep learning how to love you better as we grow.
 
-No matter how many letters I write, they'll all be trying to say the same thing in different ways: you are deeply loved. Today. Tomorrow. And every ordinary day in between.
+No matter how many letters I write, they'll all be trying to say the same thing in different ways; you are deeply loved. Today. Tomorrow. And every ordinary day in between<3
 
 With love, unnati❤"""
     },
@@ -1299,7 +1299,7 @@ But you've already started falling asleep.
  
 Good.
  
-Now sleep.
+Now sleep:)
  
 Love,
 Unnati 🤍"""
@@ -1314,13 +1314,13 @@ You have officially been sentenced to...
  
 One tight hug.
  
-Three forehead kisses.
+Three forehead kisses, mwahh mwahhh mwahhhhhh
  
 Unlimited teasing.
  
-And one very dramatic, "Mukki maarungi!"
+And one very dramatic, "Mukki maarungi!" ehehehehheheeh
  
-No appeals allowed.
+No appeals allowed;)
  
 Love,
 Unnati 🤍"""
