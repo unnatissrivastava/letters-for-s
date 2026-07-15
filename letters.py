@@ -645,7 +645,7 @@ Unnati 🤍"""
         "teaser": "I love you because you make me smile without even knowing it.",
         "body": """I love you because you make me smile without even knowing it.
  
-I love you because I can read your texts over and over and still smile.
+I love you because I can read your texts over and over and still smile:)
  
 I love you because you've become my favorite habit.
  
@@ -741,7 +741,7 @@ Unnati 🤍"""
  
 I love you because you make time for me.
  
-I love you because your "jaanu" still makes my heart smile.
+I love you because your "jaanu" still makes my heart smile:)
  
 I love you because you never make me feel like I'm asking for too much.
  
