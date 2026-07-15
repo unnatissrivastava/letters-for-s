@@ -12,15 +12,17 @@
 <div id="floaters"></div>
 
 <section id="landing">
-  <svg class="hero-svg" viewBox="0 0 200 130" fill="none">
-    <rect class="env-body" x="4" y="4" width="192" height="122" rx="2"/>
-    <path class="env-flap" d="M4 4 L100 68 L196 4"/>
-    <line class="ribbon-line rl1" x1="0" y1="65" x2="200" y2="65"/>
-    <circle class="ribbon-dot" cx="100" cy="65" r="4"/>
-  </svg>
-  <h1 class="wordmark">Letters for S</h1>
-  <p class="tagline">Ninety letters. One heart.</p>
-  <button id="enterBtn">Open</button>
+  <canvas id="particleCanvas"></canvas>
+  <div class="landing-content">
+    <p class="cinematic-eyebrow" id="cineEyebrow">a private collection</p>
+    <h1 class="cinematic-title" id="cineTitle">
+      <span class="ct-line">Letters</span>
+      <span class="ct-line ct-for">for</span>
+      <span class="ct-line ct-s">S</span>
+    </h1>
+    <p class="tagline" id="cineTagline">Ninety letters. One heart.</p>
+    <button id="enterBtn">Open</button>
+  </div>
 </section>
 
 <section id="gallery" class="hidden">
