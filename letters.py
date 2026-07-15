@@ -1346,7 +1346,7 @@ Unnati 🤍"""
         "id": 78,
         "title": "Open When You Need Reassurance",
         "teaser": "You are loved. More than you realize.",
-        "body": """You are loved.
+        "body": """You are loved<3
  
 More than you realize.
  
