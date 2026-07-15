@@ -251,7 +251,7 @@ With love, unnati❤"""
 
 After you, there became another version of me. The one who laughs a little more. Who checks her phone with hope. Who believes effort still exists. Who has someone to imagine in future plans.
 
-You didn't change who I am. You simply gave a part of me somewhere beautiful to belong.
+You didn't change who I am. You simply gave a part of me somewhere beautiful to belong<3
 
 I hope I've done the same for you.
 
@@ -269,7 +269,7 @@ Does his voice still calm you down? Do you still smile before you even open a me
 
 I hope you never become so busy that you forget how precious this chapter was. I hope you still look at him with the same softness you do today.
 
-And if you're reading this years later, with him sitting beside you tell him I loved him long before this moment ever arrived.
+And if you're reading this years later, with him sitting beside you tell him I loved him long before this moment ever arrived;)
 
 With love, unnati❤"""
     },
@@ -383,7 +383,7 @@ With love, unnati❤"""
         "teaser": "If someone asked me to live my life again, knowing everything I know now, I'd still choose you.",
         "body": """If someone asked me to live my life again, knowing everything I know now, I'd still search for you. I'd still choose you.
 
-I'd choose your honesty over empty perfection. I'd choose your loyalty over temporary excitement. I'd choose your patience every single time. I'd choose the way you care without expecting applause. I'd choose your flaws, because they're part of the person I love. I'd choose our memories over starting over with someone new. I'd choose your hand to hold through every difficult season. I'd choose growing with you instead of growing away from you.
+I'd choose your honesty over empty perfection, I'd choose your loyalty over temporary excitement. I'd choose your patience every single time. I'd choose the way you care without expecting applause. I'd choose your flaws, because they're part of the person I love. I'd choose our memories over starting over with someone new. I'd choose your hand to hold through every difficult season. I'd choose growing with you instead of growing away from you.
 
 If loving you is a decision, then it's one I'll happily keep making.
 
