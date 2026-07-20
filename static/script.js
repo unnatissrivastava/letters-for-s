@@ -82,7 +82,7 @@
   animate();
 })();
 
-// ---- floating hearts, evenly spread ----
+// ---- floating hearts ----
 const floaterContainer = document.getElementById('floaters');
 for (let i = 0; i < 10; i++) {
   const el = document.createElement('div');
@@ -102,7 +102,7 @@ document.getElementById('enterBtn').addEventListener('click', () => {
   renderGrid(LETTERS);
 });
 
-// ---- grid ----
+// ---- grid with kraft/kiss/twine cards ----
 const grid = document.getElementById('grid');
 function renderGrid(data) {
   grid.innerHTML = '';
@@ -111,6 +111,13 @@ function renderGrid(data) {
     card.className = 'card';
     card.style.animationDelay = (i * 0.03) + 's';
     card.innerHTML = `
+      <div class="twine-h"></div>
+      <div class="twine-v"></div>
+      <div class="twine-bow">
+        <span class="tw-loop tw-l"></span>
+        <span class="tw-loop tw-r"></span>
+        <span class="tw-knot"></span>
+      </div>
       <div class="card-mark"></div>
       <h3>${letter.title}</h3>
       <p>${letter.teaser}</p>
@@ -144,7 +151,7 @@ function openLetter(letter) {
 document.getElementById('closeModal').addEventListener('click', () => modal.classList.add('hidden'));
 modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.add('hidden'); });
 
-// ---- finale page ----
+// ---- finale ----
 document.getElementById('finaleBtn').addEventListener('click', () => {
   document.getElementById('finale').classList.remove('hidden');
 });
