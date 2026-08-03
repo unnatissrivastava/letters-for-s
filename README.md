@@ -42,12 +42,7 @@ letters-for-s/
    ```
 
 2. Create a virtual environment (recommended)
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
 
-3
 4. Run the app
    ```bash
    python app.py
