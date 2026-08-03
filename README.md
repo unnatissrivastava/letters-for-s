@@ -55,8 +55,3 @@ letters-for-s/
 4. Run the app
    ```bash
    python app.py
-
-
-This is a Flask app, so it **cannot** be hosted on GitHub Pages (which only supports static sites). To deploy it live, use a platform that supports Python, such as:
-
-- [Render](https://render.com)
