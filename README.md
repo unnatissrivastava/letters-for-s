@@ -30,13 +30,6 @@ letters-for-s/
 
 ### Prerequisites
 
-- Python 3.8+
-- pip
-
-### Installation
-
-
-
 4. Run the app
    ```bash
    python app.py
