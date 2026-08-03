@@ -72,5 +72,3 @@ This is a Flask app, so it **cannot** be hosted on GitHub Pages (which only supp
 This project currently has no license specified.
 
 ## 🙋 Author
-
-**unnatissrivastava**
