@@ -27,9 +27,3 @@ letters-for-s/
 ```
 
 ## 🚀 Getting Started
-
-### Prerequisites
-
-4. Run the app
-   ```bash
-   python app.py
