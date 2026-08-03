@@ -120,6 +120,6 @@ This project currently has no license specified.
 
 ## 👩‍💻 Author
 
-*Unnati Srivastava**
+**Unnati Srivastava**
 
 GitHub: **[@unnatissrivastava](https://github.com/unnatissrivastava)**
