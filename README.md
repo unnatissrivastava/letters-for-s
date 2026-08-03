@@ -35,13 +35,7 @@ letters-for-s/
 
 ### Installation
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/unnatissrivastava/letters-for-s.git
-   cd letters-for-s
-   ```
 
-2. Create a virtual environment (recommended)
 
 4. Run the app
    ```bash
