@@ -11,10 +11,4 @@ A small Flask web app for writing and sharing letters built with Python on the b
 ## 🛠️ Tech Stack
 
 - **Backend:** Python, Flask
-- **Frontend:** HTML, CSS, JavaScript
-- **Templating:** Jinja2 (via Flask `templates/`)
 
-## 📁 Project Structure
-
-```
-letters-for-s/
