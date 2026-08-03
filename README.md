@@ -18,5 +18,3 @@ A small Flask web app for writing and sharing letters built with Python on the b
 
 ```
 letters-for-s/
-├── app.py              # Main Flask application entry point
-├── letters.py           # Logic for handling letters
