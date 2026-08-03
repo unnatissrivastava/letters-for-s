@@ -22,8 +22,3 @@ letters-for-s/
 ├── letters.py           # Logic for handling letters
 ├── requirements.txt     # Python dependencies
 ├── templates/            # HTML templates (Jinja2)
-├── static/               # CSS, JS, images
-└── README.md
-```
-
-## 🚀 Getting Started
